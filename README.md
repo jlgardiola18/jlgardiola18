@@ -1,5 +1,5 @@
-# 💫 About Me:
-IT graduate from Colegio de Montalban with experience in web development using HTML, CSS, and a working knowledge of JavaScript, Java, PHP, and MySQL. Eager to contribute to a development team and grow in the tech industry.
+# 👋 Hi, I'm JL !
+An IT graduate from Colegio de Montalban with experience in web development using HTML, CSS, and a working knowledge of JavaScript, Java, PHP, and MySQL. Eager to contribute to a development team and grow in the tech industry.
 
 
 ## 🌐 Socials:
