@@ -9,7 +9,7 @@
     </a>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Programmer;Gamer;Listener" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Programmer;Casual+Gamer;Listener" alt="Typing SVG" />
 </div>
 
 # 
