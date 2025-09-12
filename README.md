@@ -1,5 +1,20 @@
-# 👋 Hi, I'm JL !
-An IT graduate from Colegio de Montalban with experience in web development using HTML, CSS, and a working knowledge of JavaScript, Java, PHP, and MySQL. Eager to contribute to a development team and grow in the tech industry.
+<div align="center">
+  <h1>👋 Hello, I'm JL</h1>
+  <h3>Web Developer | Tech Support | Gamer</h3>
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=jlgardiola18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <a href="mailto:jlgardiola18@gmail.com">
+      <img src="https://img.shields.io/badge/Email-jlgardiola18@gmail.com-important?style=flat&logo=gmail" alt="Email" />
+    </a>
+  </p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Programmer;Gamer;Listener" alt="Typing SVG" />
+</div>
+
+# 
+# 💫 About me:
+IT graduate from Colegio de Montalban with experience in web development using HTML, CSS, and a working knowledge of JavaScript, Java, PHP, and MySQL. Eager to contribute to a development team and grow in the tech industry.
 
 
 ## 🌐 Socials:
